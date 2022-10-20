@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 48d62d6b8f59e455c817b923d9a222b4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - src: {instanceID: 0}
+  - sceneLoader: {instanceID: 0}
+  - scoreText: {instanceID: 0}
+  - messageText: {instanceID: 0}
+  - launchPoint: {instanceID: 0}
+  - ball: {instanceID: 0}
+  - mainCamera: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
